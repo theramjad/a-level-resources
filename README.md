@@ -1,7 +1,16 @@
 # A Level Resources
 This is a collection of all the flashcards and files I created during my A-levels. They have been mostly untouched since my A-levels. I have made them open to share after receiving many request.
 
-## Downloading the files
+## Table of Contents
+- [Downloading the Files](#downloading-the-files)
+- [Reporting Issues](#reporting-issues)
+- [Contributing](#contributing)
+  * [Setting up GitHub](#setting-up-github)
+  * [Loading the Flashcards into Anki](#loading-the-flashcards-into-anki)
+  * [Exporting the Flashcards from Anki](#exporting-the-flashcards-from-anki)
+  * [Making a Pull Request](#making-a-pull-request)
+
+## Downloading the Files
 You can find the download page under [releases](https://github.com/RehmanAmjad/a-level-resources/releases) on the right hand side of the page. Make sure you download the latest release by pressing the first  `Source code` button on the page. You can then extract the folder and files and get studying!
 
 Be sure to bookmark the releases page and check it regularly for updates (or make a GitHub account and watch this repository by pressing the `Watch` button on the top right).
