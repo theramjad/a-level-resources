@@ -1,5 +1,5 @@
 # A Level Resources
-This is a collection of all the flashcards and files I created during my A-levels. They have been mostly untouched since my A-levels. I have made them open to share after receiving many request.
+This is a collection of all the flashcards and files I created during my A-levels. They have been mostly untouched since my A-levels. I have made them open to share after receiving many requests.
 
 ## Table of Contents
 - [Downloading the Files](#downloading-the-files)
