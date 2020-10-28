@@ -17,7 +17,7 @@ You can find the download page under [releases](https://github.com/RehmanAmjad/a
 Be sure to bookmark the releases page and check it regularly for updates (or make a GitHub account and watch this repository by pressing the `Watch` button on the top right).
 
 ## Reporting Issues
-If you find any mistakes in any notes or flashcards then either make a GitHub account and create and issue under the issues tab of this repository or email me at ` hi (at) rehmanamjad.com`.
+If you find any mistakes in any notes or flashcards then either make a GitHub account and create and issue under the issues tab of this repository or email me at ` ra570 (at) cam.ac.uk`.
 
 ## Contributing
 I would be overjoyed if anyone reading this could help improve this collection (whether that be by correcting errors, adding extra detail, or anything else!) To do so, I would suggest following these steps.
